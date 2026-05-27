@@ -13,8 +13,8 @@
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    background-color: #a3d9ff;
-    color:#4C2B36;
+    background-color: #a7f3d0;
+    color: #064e3b;
     font-style: italic;
     /* font-weight: 3rem; */
 }
@@ -81,7 +81,7 @@
 }
 
 .status-actions button:hover {
-    background-color: #0a77eb; /* Darker blue on hover */
+    background-color: #059669; /* Darker green on hover */
 }
 
 .cancellation-message {

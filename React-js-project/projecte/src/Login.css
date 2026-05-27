@@ -32,14 +32,14 @@ input[type="password"] {
 input[type="submit"] {
    width: 100%; /* Full width for button */
    padding: 10px; /* Padding inside button */
-   background-color: #007bff; /* Primary color */
+   background-color: #10b981; /* Primary color */
    color: white; /* Text color white */
    border-radius: 5px; /* Rounded corners for button */
 }
 
 /* Hover effect for submit button */
 input[type="submit"]:hover {
-   background-color: #0056b3; /* Darker blue on hover */
+   background-color: #059669; /* Darker green on hover */
 }
 
 /* Error and success messages styles (same as Register) */
@@ -52,7 +52,7 @@ input[type="submit"]:hover {
   width: auto; /* Auto width to fit text content */
   padding: 10px 15px; /* Padding for a comfortable click area */
   background-color: transparent; /* Transparent background for a clean look */
-  color: #007bff; /* Bootstrap primary color for text */
+  color: #10b981; /* Primary color for text */
   border: none; /* No border for a clean look */
   cursor: pointer; /* Pointer cursor on hover */
   font-size: 14px; /* Font size similar to other buttons */
@@ -61,5 +61,5 @@ input[type="submit"]:hover {
 
 .register-button:hover {
   text-decoration: underline; /* Underline text on hover for emphasis */
-  color: #0056b3; /* Darker blue on hover for visual feedback */
+  color: #059669; /* Darker green on hover for visual feedback */
 }

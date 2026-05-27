@@ -46,7 +46,7 @@ body {
 /* Header Styles */
 h3 {
     text-align: center;
-    color: #007bff; /* Bootstrap primary color for header */
+    color: #10b981; /* Primary color for header */
     margin-top: 10px; /* Reduced top margin to minimize space above */
     margin-bottom: 20px; /* Reduced bottom margin to minimize space below */
     font-size: 30px;
@@ -68,8 +68,8 @@ input[type="password"] {
 input[type="text"]:focus,
 input[type="email"]:focus,
 input[type="password"]:focus {
-    border-color: #007bff; /* Change border color on focus */
-    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Add a shadow effect on focus */
+    border-color: #10b981; /* Change border color on focus */
+    box-shadow: 0 0 5px rgba(16, 185, 129, 0.5); /* Add a shadow effect on focus */
     outline: none; /* Remove default outline */
 }
 
@@ -77,7 +77,7 @@ input[type="password"]:focus {
 input[type="submit"] {
     width: 100%;
     padding: 12px;
-    background-color: #007bff; /* Bootstrap primary color */
+    background-color: #10b981; /* Primary color */
     color: white;
     border: none;
     border-radius: 5px;
@@ -88,7 +88,7 @@ input[type="submit"] {
 
 /* Submit Button Hover Effect */
 input[type="submit"]:hover {
-    background-color: #0056b3; /* Darker blue on hover */
+    background-color: #059669; /* Darker green on hover */
     transform: translateY(-2px); /* Slight lift effect on hover */
 }
 
@@ -118,7 +118,7 @@ input[type="submit"]:hover {
     width: auto; /* Auto width to fit text content */
     padding: 10px 15px; /* Padding for a comfortable click area */
     background-color: transparent; /* Transparent background for a clean look */
-    color: #007bff; /* Bootstrap primary color for text */
+    color: #10b981; /* Primary color for text */
     border: none; /* No border for a clean look */
     cursor: pointer; /* Pointer cursor on hover */
     font-size: 14px; /* Font size similar to other buttons */
@@ -127,5 +127,5 @@ input[type="submit"]:hover {
 
 .login-button:hover {
     text-decoration: underline; /* Underline text on hover for emphasis */
-    color: #0056b3; /* Darker blue on hover for visual feedback */
+    color: #059669; /* Darker green on hover for visual feedback */
 }
