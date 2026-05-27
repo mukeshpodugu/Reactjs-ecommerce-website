@@ -86,7 +86,7 @@ const ContactForm = () => {
                 <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
                   <FontAwesomeIcon icon={faInstagram} />
                 </a>
-                <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/podugu-mukesh-1575a32b4/" target="_blank" rel="noopener noreferrer">
                   <FontAwesomeIcon icon={faLinkedinIn} />
                 </a>
               </div>
