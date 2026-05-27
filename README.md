@@ -4,6 +4,10 @@ A complete, responsive, and premium React.js E-commerce platform designed for gr
 
 Developed and customized by **[PODUGU MUKESH](https://github.com/mukeshpodugu)**.
 
+### 🌐 Live Deployments
+* **Customer Storefront**: [https://reactjs-ecommerce-website-bgg9afys4-podugu-mukeshs-projects.vercel.app/](https://reactjs-ecommerce-website-bgg9afys4-podugu-mukeshs-projects.vercel.app/)
+* **Admin Dashboard**: [https://react-js-project-v14j-nzaf9tomx-podugu-mukeshs-projects.vercel.app/](https://react-js-project-v14j-nzaf9tomx-podugu-mukeshs-projects.vercel.app/)
+
 ---
 
 ## 🌟 Key Features
